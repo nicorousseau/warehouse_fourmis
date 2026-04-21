@@ -1,5 +1,4 @@
 import numpy as np
-import random
 from cost import calculate_cost
 from warehouse import get_real_distance
 
